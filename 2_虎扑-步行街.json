@@ -1,0 +1,20 @@
+[
+  {
+    "id": 20,
+    "sort": 20,
+    "isSubscribed": false,
+    "delay": 500,
+    "name": "虎扑-步行街",
+    "host": "https://bbs.hupu.com",
+    "siteUrl": "https://bbs.hupu.com/all-gambia",
+    "siteIconUrl": "https://w1.hoopchina.com.cn/images/pc/old/favicon.ico",
+    "articleXpath": {
+      "position": "",
+      "title": "//*[@id='container']//span[@class='t-title']/text()[1]",
+      "url": "//*[@id='container']//div[2]//div[2]//div[2]/div[*]//div/div[1]/a/@href",
+      "popularity": "//*[@id='container']//div[2]//div[2]//div[2]/div[*]//div/div[2]/a/text()[1]",
+      "imageUrl": "",
+      "parameter": "default"
+    }
+  }
+]
