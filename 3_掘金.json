@@ -1,0 +1,164 @@
+[
+  {
+    "id": 30,
+    "sort": 30,
+    "isSubscribed": false,
+    "delay": 1000,
+    "name": "掘金-文章榜",
+    "host": "https://juejin.cn",
+    "siteUrl": "https://juejin.cn/hot/articles",
+    "siteIconUrl": "https://lf3-cdn-tos.bytescm.com/obj/static/xitu_juejin_web/static/favicons/favicon-32x32.png",
+    "articleXpath": {
+      "position": "",
+      "title": "//*[@id='juejin']//div[@class='article-title']/text()[1]",
+      "url": "//*[@id='juejin']//div[@class='hot-list']/a[@class='article-item-link']/@href",
+      "popularity": "//*[@id='juejin']//span[@class='hot-number']/text()[1]",
+      "imageUrl": "//*[@id='juejin']//img[@class='article-author-img']/@src",
+      "parameter": "default"
+    }
+  },
+  {
+    "id": 31,
+    "sort": 31,
+    "isSubscribed": false,
+    "delay": 1000,
+    "name": "掘金-Android",
+    "host": "https://juejin.cn",
+    "siteUrl": "https://juejin.cn/hot/articles/6809635626879549454",
+    "siteIconUrl": "https://lf3-cdn-tos.bytescm.com/obj/static/xitu_juejin_web/static/favicons/favicon-32x32.png",
+    "articleXpath": {
+      "position": "",
+      "title": "//*[@id='juejin']//div[@class='article-title']/text()[1]",
+      "url": "//*[@id='juejin']//div[@class='hot-list']/a[@class='article-item-link']/@href",
+      "popularity": "//*[@id='juejin']//span[@class='hot-number']/text()[1]",
+      "imageUrl": "//*[@id='juejin']//img[@class='article-author-img']/@src",
+      "parameter": "default"
+    }
+  },
+  {
+    "id": 32,
+    "sort": 32,
+    "isSubscribed": false,
+    "delay": 1000,
+    "name": "掘金-iOS",
+    "host": "https://juejin.cn",
+    "siteUrl": "https://juejin.cn/hot/articles/6809635626661445640",
+    "siteIconUrl": "https://lf3-cdn-tos.bytescm.com/obj/static/xitu_juejin_web/static/favicons/favicon-32x32.png",
+    "articleXpath": {
+      "position": "",
+      "title": "//*[@id='juejin']//div[@class='article-title']/text()[1]",
+      "url": "//*[@id='juejin']//div[@class='hot-list']/a[@class='article-item-link']/@href",
+      "popularity": "//*[@id='juejin']//span[@class='hot-number']/text()[1]",
+      "imageUrl": "//*[@id='juejin']//img[@class='article-author-img']/@src",
+      "parameter": "default"
+    }
+  },
+  {
+    "id": 33,
+    "sort": 33,
+    "isSubscribed": false,
+    "delay": 1000,
+    "name": "掘金-后端",
+    "host": "https://juejin.cn",
+    "siteUrl": "https://juejin.cn/hot/articles/6809637769959178254",
+    "siteIconUrl": "https://lf3-cdn-tos.bytescm.com/obj/static/xitu_juejin_web/static/favicons/favicon-32x32.png",
+    "articleXpath": {
+      "position": "",
+      "title": "//*[@id='juejin']//div[@class='article-title']/text()[1]",
+      "url": "//*[@id='juejin']//div[@class='hot-list']/a[@class='article-item-link']/@href",
+      "popularity": "//*[@id='juejin']//span[@class='hot-number']/text()[1]",
+      "imageUrl": "//*[@id='juejin']//img[@class='article-author-img']/@src",
+      "parameter": "default"
+    }
+  },
+  {
+    "id": 34,
+    "sort": 34,
+    "isSubscribed": false,
+    "delay": 1000,
+    "name": "掘金-前端",
+    "host": "https://juejin.cn",
+    "siteUrl": "https://juejin.cn/hot/articles/6809637767543259144",
+    "siteIconUrl": "https://lf3-cdn-tos.bytescm.com/obj/static/xitu_juejin_web/static/favicons/favicon-32x32.png",
+    "articleXpath": {
+      "position": "",
+      "title": "//*[@id='juejin']//div[@class='article-title']/text()[1]",
+      "url": "//*[@id='juejin']//div[@class='hot-list']/a[@class='article-item-link']/@href",
+      "popularity": "//*[@id='juejin']//span[@class='hot-number']/text()[1]",
+      "imageUrl": "//*[@id='juejin']//img[@class='article-author-img']/@src",
+      "parameter": "default"
+    }
+  },
+  {
+    "id": 35,
+    "sort": 35,
+    "isSubscribed": false,
+    "delay": 1000,
+    "name": "掘金-人工智能",
+    "host": "https://juejin.cn",
+    "siteUrl": "https://juejin.cn/hot/articles/6809637773935378440",
+    "siteIconUrl": "https://lf3-cdn-tos.bytescm.com/obj/static/xitu_juejin_web/static/favicons/favicon-32x32.png",
+    "articleXpath": {
+      "position": "",
+      "title": "//*[@id='juejin']//div[@class='article-title']/text()[1]",
+      "url": "//*[@id='juejin']//div[@class='hot-list']/a[@class='article-item-link']/@href",
+      "popularity": "//*[@id='juejin']//span[@class='hot-number']/text()[1]",
+      "imageUrl": "//*[@id='juejin']//img[@class='article-author-img']/@src",
+      "parameter": "default"
+    }
+  },
+  {
+    "id": 36,
+    "sort": 36,
+    "isSubscribed": false,
+    "delay": 1000,
+    "name": "掘金-开发工具",
+    "host": "https://juejin.cn",
+    "siteUrl": "https://juejin.cn/hot/articles/6809637771511070734",
+    "siteIconUrl": "https://lf3-cdn-tos.bytescm.com/obj/static/xitu_juejin_web/static/favicons/favicon-32x32.png",
+    "articleXpath": {
+      "position": "",
+      "title": "//*[@id='juejin']//div[@class='article-title']/text()[1]",
+      "url": "//*[@id='juejin']//div[@class='hot-list']/a[@class='article-item-link']/@href",
+      "popularity": "//*[@id='juejin']//span[@class='hot-number']/text()[1]",
+      "imageUrl": "//*[@id='juejin']//img[@class='article-author-img']/@src",
+      "parameter": "default"
+    }
+  },
+  {
+    "id": 37,
+    "sort": 37,
+    "isSubscribed": false,
+    "delay": 1000,
+    "name": "掘金-代码人生",
+    "host": "https://juejin.cn",
+    "siteUrl": "https://juejin.cn/hot/articles/6809637776263217160",
+    "siteIconUrl": "https://lf3-cdn-tos.bytescm.com/obj/static/xitu_juejin_web/static/favicons/favicon-32x32.png",
+    "articleXpath": {
+      "position": "",
+      "title": "//*[@id='juejin']//div[@class='article-title']/text()[1]",
+      "url": "//*[@id='juejin']//div[@class='hot-list']/a[@class='article-item-link']/@href",
+      "popularity": "//*[@id='juejin']//span[@class='hot-number']/text()[1]",
+      "imageUrl": "//*[@id='juejin']//img[@class='article-author-img']/@src",
+      "parameter": "default"
+    }
+  },
+  {
+    "id": 38,
+    "sort": 38,
+    "isSubscribed": false,
+    "delay": 1000,
+    "name": "掘金-阅读",
+    "host": "https://juejin.cn",
+    "siteUrl": "https://juejin.cn/hot/articles/6809637772874219534",
+    "siteIconUrl": "https://lf3-cdn-tos.bytescm.com/obj/static/xitu_juejin_web/static/favicons/favicon-32x32.png",
+    "articleXpath": {
+      "position": "",
+      "title": "//*[@id='juejin']//div[@class='article-title']/text()[1]",
+      "url": "//*[@id='juejin']//div[@class='hot-list']/a[@class='article-item-link']/@href",
+      "popularity": "//*[@id='juejin']//span[@class='hot-number']/text()[1]",
+      "imageUrl": "//*[@id='juejin']//img[@class='article-author-img']/@src",
+      "parameter": "default"
+    }
+  }
+]
