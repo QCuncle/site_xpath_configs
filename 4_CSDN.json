@@ -1,0 +1,74 @@
+[
+  {
+    "id": 40,
+    "sort": 40,
+    "isSubscribed": false,
+    "delay": 1000,
+    "name": "CSDN-热榜",
+    "host": "https://blog.csdn.net",
+    "siteUrl": "https://blog.csdn.net/rank/list",
+    "siteIconUrl": "https://profile-avatar.csdnimg.cn/default.jpg!3",
+    "articleXpath": {
+      "position": "",
+      "title": "//*[@id='floor-rank_460']//div[@class='hosetitem-title']/a[@class='title']/text()[1]",
+      "url": "//*[@id='floor-rank_460']//div[@class='hosetitem-title']/a[@class='title']/@href",
+      "popularity": "//*[@id='floor-rank_460']//div[@class='hostitem-item-right']//span[@class='num']/text()[1]",
+      "imageUrl": "//*[@id='floor-rank_460']//div[@class='right']//img[@class='']/@src",
+      "parameter": "default"
+    }
+  },
+  {
+    "id": 41,
+    "sort": 41,
+    "isSubscribed": false,
+    "delay": 1000,
+    "name": "CSDN-领域内容",
+    "host": "https://blog.csdn.net",
+    "siteUrl": "https://blog.csdn.net/rank/list/content",
+    "siteIconUrl": "https://profile-avatar.csdnimg.cn/default.jpg!3",
+    "articleXpath": {
+      "position": "",
+      "title": "//*[@id='floor-rank_460']//div[@class='hosetitem-title']/a[@class='title']/text()[1]",
+      "url": "//*[@id='floor-rank_460']//div[@class='hosetitem-title']/a[@class='title']/@href",
+      "popularity": "//*[@id='floor-rank_460']//div[@class='hostitem-item-right']//span[@class='num']/text()[1]",
+      "imageUrl": "//*[@id='floor-rank_460']//div[@class='right']//img[@class='']/@src",
+      "parameter": "default"
+    }
+  },
+  {
+    "id": 42,
+    "sort": 42,
+    "isSubscribed": false,
+    "delay": 1000,
+    "name": "CSDN-问答酬金",
+    "host": "https://blog.csdn.net",
+    "siteUrl": "https://blog.csdn.net/rank/list/ask",
+    "siteIconUrl": "https://profile-avatar.csdnimg.cn/default.jpg!3",
+    "articleXpath": {
+      "position": "",
+      "title": "//*[@id='floor-rank_460']//div[@class='hosetitem-title']/a[@class='title']/text()[1]",
+      "url": "//*[@id='floor-rank_460']//div[@class='hosetitem-title']/a[@class='title']/@href",
+      "popularity": "//*[@id='floor-rank_460']//div[@class='hostitem-item-right']//p[@class='num']/text()[1]",
+      "imageUrl": "",
+      "parameter": "default"
+    }
+  },
+  {
+    "id": 43,
+    "sort": 43,
+    "isSubscribed": false,
+    "delay": 1000,
+    "name": "CSDN-热门专栏",
+    "host": "https://blog.csdn.net",
+    "siteUrl": "https://blog.csdn.net/rank/list/column",
+    "siteIconUrl": "https://profile-avatar.csdnimg.cn/default.jpg!3",
+    "articleXpath": {
+      "position": "",
+      "title": "//*[@id='floor-rank_460']//div[@class='hosetitem-title']/a[@class='title']/text()[1]",
+      "url": "//*[@id='floor-rank_460']//div[@class='hosetitem-title']/a[@class='title']/@href",
+      "popularity": "//*[@id='floor-rank_460']//div[@class='hostitem-item-right']//span[@class='num']/text()[1]",
+      "imageUrl": "//*[@id='floor-rank_460']//div[@class='hosetitem-dec']//img/@src",
+      "parameter": "default"
+    }
+  }
+]
