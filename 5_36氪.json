@@ -1,0 +1,56 @@
+[
+  {
+    "id": 50,
+    "sort": 50,
+    "isSubscribed": false,
+    "delay": 1000,
+    "name": "36氪",
+    "host": "https://36kr.com",
+    "siteUrl": "https://36kr.com/",
+    "siteIconUrl": "https://36kr.com/favicon.ico",
+    "articleXpath": {
+      "position": "",
+      "title": "//*[@id='app']//div[2]/div[3]//div/div[2]/div[1]/div[1]/div[2]/div[*]//div/div[2]/div[2]/p/a/text()[1]",
+      "url": "//*[@id='app']//a[@class='article-item-pic']/@href",
+      "popularity": "//*[@id='app']//div[@class='kr-flow-bar']//a[@class='kr-flow-bar-author']/text()[1]",
+      "imageUrl": "",
+      "parameter": "default"
+    }
+  },
+  {
+    "id": 51,
+    "sort": 51,
+    "isSubscribed": false,
+    "delay": 1000,
+    "name": "36氪-快讯",
+    "host": "https://36kr.com",
+    "siteUrl": "https://36kr.com/newsflashes/",
+    "siteIconUrl": "https://36kr.com/favicon.ico",
+    "articleXpath": {
+      "position": "",
+      "title": "//*[@id='app']//div[@class='newsflash-item']/a/text()[1]",
+      "url": "//*[@id='app']//div[@class='newsflash-item']/a/@href",
+      "popularity": "//*[@id='app']//div[@class='item-related']/span/text()[1]",
+      "imageUrl": "",
+      "parameter": "default"
+    }
+  },
+  {
+    "id": 52,
+    "sort": 52,
+    "isSubscribed": false,
+    "delay": 1000,
+    "name": "36氪-人气榜",
+    "host": "https://36kr.com",
+    "siteUrl": "https://36kr.com/hot-list/catalog",
+    "siteIconUrl": "https://36kr.com/favicon.ico",
+    "articleXpath": {
+      "position": "",
+      "title": "//*[@id='app']//div[@class='kr-flow-article-item']//a[@class='article-item-title weight-bold']/text()[1]",
+      "url": "//*[@id='app']//div[@class='kr-flow-article-item']//a[@class='article-item-description ellipsis-2']/@href",
+      "popularity": "//*[@id='app']//div[@class='kr-flow-article-item']//a[@class='kr-flow-bar-author']/text()[1]",
+      "imageUrl": "",
+      "parameter": "default"
+    }
+  }
+]
