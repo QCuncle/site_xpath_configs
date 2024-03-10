@@ -3,7 +3,7 @@
     "id": 20,
     "sort": 20,
     "isSubscribed": false,
-    "delay": 500,
+    "delay": 200,
     "name": "虎扑-步行街",
     "host": "https://bbs.hupu.com",
     "siteUrl": "https://bbs.hupu.com/all-gambia",
